@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WorldView</title>
+  </head>
+  <div class="header">Menu
+	<ul>
+		<li>Photos</li>
+		<li>Trips</li>
+		<li>Ideas</li>
+	</ul>	
+  </div>
+  <body>
+  <div class="container">
+	
+  <h1>Another View of the World</h1>
+	<h3>WorldView</h3>
+  </div>
+ 
+ 
+  </body>
+</html>
